@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am a beginner programmer
 [YouTube](https://www.youtube.com/channel/UCPJcH7BEr71mVDW1g--j70A)
 
 ![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanisovmaks&theme=dark&show_icons=true)
