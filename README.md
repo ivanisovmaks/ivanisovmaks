@@ -4,7 +4,7 @@
 
 ![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanisovmaks&theme=dark&show_icons=true)
 
-![Static Badge](https://img.shields.io/badge/YouTube-e74c3c?style=flat&logo=youtube&logoColor=white&labelColor=e74c3c&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCPJcH7BEr71mVDW1g--j70A)
+![Static Badge](https://img.shields.io/badge/YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white&labelColor=%23FF0000&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCPJcH7BEr71mVDW1g--j70A)
 
 <!--
 **ivanisovmaks/ivanisovmaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
